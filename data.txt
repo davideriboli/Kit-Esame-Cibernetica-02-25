@@ -1,0 +1,14 @@
+- Nome Cognome
+- Mail istituzionale
+- Numero di matricola/libretto
+- Indirizzo completo di https:// del proprio repository d'esame.
+
+Note:
+
+1) Non usare Word o LibreOffice o simili per modificare questo file. Usa un qualsiasi blocco note, in modo da non cambiarne la natura di puro testo.
+
+2) Sostituisci i testi delle righe sopra coi tuoi dati. Controlla con attenzione che i dati siano corretti. Mail non funzionanti o link rotti equivarranno a mancata consegna.
+
+3) Una volta salvato il file coi tuoi dati e chiuso il blocco note, devi rinominarlo. Il file si chiama in origine "data.txt". Tu devi sostituire "data" coi tuoi nome e cognome, scritti minuscoli e senza spazi. Quindi, se dovessi farlo per me stesso, "data.txt" diverrebbe "davideriboli.txt". Fai attenzione a non avere suffissi doppi (nomecognome.txt.txt). Per evitarlo, disponi il tuo finder o il tuo explorer in modo che ti mostri sempre i suffissi di file.
+
+4) Invia sul post Classroom d'esame, in corrispondenza del tuo slot, il tuo file.

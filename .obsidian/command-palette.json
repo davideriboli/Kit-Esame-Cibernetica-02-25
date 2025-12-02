@@ -1,0 +1,11 @@
+{
+  "pinned": [
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "obsidian-sort-and-permute-lines:sort-alphabetically",
+    "editor:insert-codeblock",
+    "editor:insert-callout",
+    "insert-current-date",
+    "insert-current-time"
+  ]
+}
